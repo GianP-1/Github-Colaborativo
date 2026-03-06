@@ -15,3 +15,6 @@ print(f"La multiplicación de {numero1} y {numero2} es: {multiplicacion}")
 
 division = numero1 / numero2
 print(f"La división de {numero1} y {numero2} es: {division}")
+
+potenciacion = numero1 ** numero2
+print(f"La potencia de {numero1} y {numero2} es: {potenciacion}")
