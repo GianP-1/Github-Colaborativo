@@ -13,7 +13,7 @@ print("Gracias a eso, las ideas comenzaban a encajar como piezas de un rompecabe
 print("Un día, mientras realizaban una actividad importante, apareció un reto inesperado.")
 print("Nadie sabía exactamente cómo resolverlo al principio.")
 print("Pero entre todos comenzaron a pensar, aportar ideas y ayudarse unos a otros.")
-print("Cada talengit pto parecía tener un propósito dentro del equipo.")
+print("Cada talento parecía tener un propósito dentro del equipo.")
 print("Y aunque el camino no siempre era fácil, el grupo seguía avanzando con entusiasmo.")
 print("Lo que ellos aún no sabían era que los otros tres compañeros también tenían habilidades sorprendentes...")
 print("y muy pronto sería su turno de demostrar que en ese grupo nadie era menos importante.")
