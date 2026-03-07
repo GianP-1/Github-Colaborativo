@@ -134,5 +134,5 @@ print("Después de todo, habían nacido para trabajar juntos.")
 
 print("\n" + "="*40)
 print("      ¡FIN DEL CUENTO Y DEL RETO!      ")
-print("="*40)''
-
+​print("\nAhora, con la puerta abierta, el grupo mira hacia nuevos horizontes.")
+print("¿Cuál será el próximo reto que este equipo de 6 compañeros enfrentará?") 
