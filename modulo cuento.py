@@ -3,7 +3,7 @@ import time
 print("\n GRUPO DE TRABAJO ")
 
 print("En un pueblo muy lejano del cual el nombre no puedo acordarme,")
-print("existieron 5 compañeros, cada uno con un talento único")
+print("existieron 6 compañeros, cada uno con un talento único")
 print("que lo hacía sumamente útil para realizar cualquier actividad colaborativa.")
 print("Entre ellos se encontraba David, con su poder de captación rápida;")
 print("este poder le permitía aprender e imitar procedimientos de forma muy rápida.")
@@ -67,3 +67,47 @@ print(f"Jerry aportaba {len(habilidades_jerry)} habilidades críticas:")
 for h in habilidades_jerry:
     print(f"   - {h}")
     time.sleep(2)
+
+# ── David el Innovador ──
+print("\ny luego apareció David, el innovador del equipo...")
+time.sleep(1)
+print("David era quien la analizaba con rapidez.")
+print("Tenía una mente ágil, siempre atento a los detalles y con ideas creativas para resolver problemas.")
+
+habilidades_david = ["pensamiento ágil", "gran atención a los detalles", "creatividad para resolver problemas"]
+print(f"David aportaba {len(habilidades_david)} habilidades críticas:")
+
+for h in habilidades_david:
+    print(f"   - {h}")
+    time.sleep(2)
+
+# ── María la Conectora ──
+print("\ny finalmente apareció María, la última integrante del equipo...")
+time.sleep(1)
+print("María era una compañera tranquila y siempre dispuesta a colaborar.")
+print("No hablaba demasiado, pero cuando llegaba el momento de trabajar, sus aportes siempre resultaban útiles.")
+print("Mientras David avanzaba con rapidez, María ayudaba a mantener el orden y la armonía dentro del grupo.")
+print("Gracias a su forma de apoyar al equipo, las ideas comenzaban a encajar como piezas de un rompecabezas.")
+
+habilidades_maria = ["organizar el trabajo del equipo", "apoyar las ideas de los demás", "mantener la calma y el enfoque"]
+print(f"María aportaba {len(habilidades_maria)} habilidades importantes:")
+
+for h in habilidades_maria:
+    print(f"   - {h}")
+    time.sleep(2)  
+
+print("\nCon todos los integrantes ya reunidos, el equipo comenzó a enfrentar el reto.")
+time.sleep(2)
+print("Gian organizó las tareas para que cada uno pudiera aportar lo mejor de sí.")
+print("Adriana buscó información útil, mientras Jerry analizaba cada detalle para encontrar pistas importantes.")
+print("Said utilizó sus conocimientos para interpretar los datos y proponer posibles soluciones.")
+print("David, con su mente ágil, ayudó a mejorar las ideas que iban surgiendo.")
+print("Y María mantuvo el orden y la armonía del grupo para que todo funcionara correctamente.")
+time.sleep(2)
+
+print("A medida que trabajaban juntos, comenzaron a notar que cada habilidad encajaba perfectamente con la de los demás.")
+print("Lo que parecía un problema complicado empezó poco a poco a tomar forma.")
+print("Las ideas se conectaban, los datos cobraban sentido y el equipo avanzaba con más confianza.")
+print("Sin embargo, justo cuando pensaban que estaban cerca de resolverlo todo...")
+print("apareció un nuevo desafío que pondría a prueba todo lo que habían aprendido trabajando juntos.")
+time.sleep(2)
