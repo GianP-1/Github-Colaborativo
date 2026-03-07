@@ -24,8 +24,13 @@ kilogramos_g = gramos / 1000
 
 print(f"La conversión de {gramos} gramos a Kilogramos es: {kilogramos_g} Kilogramos")
 
-#conversor de farenheit a celsius
+# Conversor de Kelvin a Celsius
+def kelvin_a_celsius():
+    kelvin = float(input("Introduce la temperatura en Kelvin: "))
+    celsius = kelvin - 273.15
+    print(f"{kelvin} K equivalen a {celsius:.2f} °C")
 
+    #conversor de farenheit a celsius
 def fahrenheit_a_celsius():
     f = float(input("Introduce los grados Fahrenheit: "))
     c = (f - 32) * 5 / 9
