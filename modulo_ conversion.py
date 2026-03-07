@@ -16,3 +16,10 @@ libras = float(input("Ingrese el peso en libras: "))
 kilogramos = libras * 0.453592
 
 print("El peso en kilogramos es:", kilogramos)
+
+# Conversor de gramos a kilogramos
+gramos = float(input("Ingrese el peso en gramos: "))
+
+kilogramos_g = gramos / 1000
+
+print(f"La conversión de {gramos} gramos a Kilogramos es: {kilogramos_g} Kilogramos")
