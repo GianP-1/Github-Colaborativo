@@ -1,3 +1,5 @@
+import math
+
 numero1 = float(input("Introduce el primer número: "))
 numero2 = float(input("Introduce el segundo número: "))
 
@@ -18,3 +20,6 @@ print(f"La división de {numero1} y {numero2} es: {division}")
 
 potenciacion = numero1 ** numero2
 print(f"La potencia de {numero1} y {numero2} es: {potenciacion}")
+
+raiz = math.sqrt(numero1)
+print(f"La raíz cuadrada de {numero1} es: {raiz}")
