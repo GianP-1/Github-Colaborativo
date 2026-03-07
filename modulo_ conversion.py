@@ -24,8 +24,9 @@ kilogramos_g = gramos / 1000
 
 print(f"La conversión de {gramos} gramos a Kilogramos es: {kilogramos_g} Kilogramos")
 
+#conversor de farenheit a celsius
+
 def fahrenheit_a_celsius():
     f = float(input("Introduce los grados Fahrenheit: "))
     c = (f - 32) * 5 / 9
     print(f"{f} °F equivalen a {c:.2f} °C")
-    
