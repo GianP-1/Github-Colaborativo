@@ -126,4 +126,4 @@ python modulo_conversion.py
 
 ---
 
-*Proyecto desarrollado como actividad colaborativa — 07/03/2026*
+*Proyecto desarrollado como actividad colaborativa — 03/2026*
