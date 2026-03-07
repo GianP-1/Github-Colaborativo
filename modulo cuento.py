@@ -53,3 +53,17 @@ print(f"Adriana tenía {len(habilidades_adriana)} habilidades clave:")
 for h in habilidades_adriana:
     print(f"  - {h}")
 time.sleep(2)
+
+
+# ── Jerry el Investigador ──
+print("\ny luego apareció Jerry, el investigador del equipo...")
+time.sleep(1)
+print("Si Adriana encontraba la información, Jerry era quien profundizaba en ella.")
+print("Tenía un ojo clínico para descubrir detalles que otros pasaban por alto.")
+
+habilidades_jerry = ["conectar evidencias", "descubrir patrones", "validar fuentes"]
+print(f"Jerry aportaba {len(habilidades_jerry)} habilidades críticas:")
+
+for h in habilidades_jerry:
+    print(f"   - {h}")
+    time.sleep(2)
