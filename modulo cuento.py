@@ -54,7 +54,6 @@ for h in habilidades_adriana:
     print(f"  - {h}")
 time.sleep(2)
 
-
 # ── Jerry el Investigador ──
 print("\ny luego apareció Jerry, el investigador del equipo...")
 time.sleep(1)
@@ -111,3 +110,29 @@ print("Las ideas se conectaban, los datos cobraban sentido y el equipo avanzaba 
 print("Sin embargo, justo cuando pensaban que estaban cerca de resolverlo todo...")
 print("apareció un nuevo desafío que pondría a prueba todo lo que habían aprendido trabajando juntos.")
 time.sleep(2)
+
+# --- El Desafío Final ---
+time.sleep(2)
+print("\nEl desafío era una prueba de confianza: una puerta cerrada que solo se abría")
+print("si todos los talentos actuaban en perfecta sincronía.")
+time.sleep(2)
+print("Al principio, el miedo los paralizó, pero al mirarse unos a otros,")
+print("vieron la seguridad en los ojos de sus compañeros.")
+time.sleep(2)
+print("No se necesitó ni una palabra más; cada uno ocupó su lugar.")
+time.sleep(2)
+
+# Aquí podemos visualizar la sinergia del equipo
+print("\n")
+
+print("\nEl resultado fue asombroso: no solo resolvieron el problema,")
+print("sino que desbloquearon un nuevo nivel de entendimiento común.")
+time.sleep(2)
+print("La puerta se abrió, revelando un horizonte lleno de nuevos proyectos.")
+print("Se miraron, sonrieron y, sin dudarlo, dieron el primer paso hacia el siguiente desafío.")
+print("Después de todo, habían nacido para trabajar juntos.")
+
+print("\n" + "="*40)
+print("      ¡FIN DEL CUENTO Y DEL RETO!      ")
+print("="*40)''
+
