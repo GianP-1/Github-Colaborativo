@@ -11,7 +11,7 @@ El proyecto está dividido en tres módulos, cada uno en su propia rama.
 - Said
 - Adriana
 - Jerry
-- David
+- David Pilo
 - María
 
 ---
