@@ -7,12 +7,12 @@ El proyecto está dividido en tres módulos, cada uno en su propia rama.
 
 ##  Integrantes
 
-- Gian
-- Said
-- Adriana
-- Jerry
+- Gian Pitti
+- Said Guardia
+- Adriana Cervera
+- Jerry Rivera
 - David Pilo
-- María
+- María Cedeño  
 
 ---
 
