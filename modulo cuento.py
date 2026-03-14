@@ -133,5 +133,10 @@ print("Se miraron, sonrieron y, sin dudarlo, dieron el primer paso hacia el sigu
 print("Después de todo, habían nacido para trabajar juntos.")
 
 print("      ¡FIN DEL CUENTO Y DEL RETO!      ")
-​​print("\nAhora, con la puerta abierta, el grupo mira hacia nuevos horizontes.")
+
+print("Ahora, con la puerta abierta, el grupo mira hacia nuevos horizontes.")
+print("¿Cuál será el próximo reto que este equipo de 6 compañeros enfrentará? ")
+
+print("\nAhora, con la puerta abierta, el grupo mira hacia nuevos horizontes.")
 print("¿Cuál será el próximo reto que este equipo de 6 compañeros enfrentará?")
+
